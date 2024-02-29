@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673220302223",
+    "project_id": "groceryfusion",
+    "storage_bucket": "groceryfusion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673220302223:android:3b22e3ee71b0660f2167fa",
+        "android_client_info": {
+          "package_name": "com.naimurnoyon.grocery_fusion_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKx5e8wMMm0JT1bVNRCX4Xya8UENDL94k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
